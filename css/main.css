@@ -1,1 +1,15 @@
+body {
+    background: #ffffffc0;
+}
 
+#Windows7 {
+    background: #ebebeb;
+    margin: 40px;
+    padding: 10px
+}
+
+#Linux {
+    background: #ebebeb;
+    margin: 40px;
+    padding: 10px
+}
